@@ -1,32 +1,31 @@
-riseup_intro: "O Riseup oferece ferramentas de comunicação on-line para pessoas
-  e grupos trabalhando por mudanças sociais libertadoras. Somos um projeto para a
-  criação de alternativas democráticas e para a prática da autonomia, por meio
+riseup_intro: "Riseup oferece ferramentas de comunicação on-line para pessoas
+  e grupos que trabalham por mudanças sociais libertadoras. Somos um projeto para a
+  criação de alternativas democráticas e para a prática de autonomia, por meio
   do controle dos nossos próprios meios de comunicação segura."
 
 red_title: "Riseup Red"
 red_info: "Oferecemos contas <b>Riseup Red</b> para serviços tradicionais,
   inclusive [[email]] (IMAP), [[chat]] (XMPP) e [[legacy]] (OpenVPN)."
-red_webmail: "[[Entre no webmail => https://mail.riseup.net]]."
+red_webmail: "[[Acesse seu email=> https://mail.riseup.net]]."
 red_support: "Ajuda com [[email]], [[chat]] e [[legacy]]."
-red_settings: "[[Mude suas configurações => https://user.riseup.net]]."
-red_request: "[[Solicite uma conta => https://user.riseup.net/forms/new_user]]."
-red_reset_password: "[[Recupere sua senha => https://user.riseup.net/forms/password_reset/first]]."
-red_help: "[[Crie um tíquete de ajuda Riseup Red => https://user.riseup.net/forms/]]."
+red_settings: "[[Acesse suas configurações e preferências=> https://user.riseup.net]]."
+red_request: "[[Crie uma conta => https://user.riseup.net/forms/new_user]]."
+red_reset_password: "[[Esqueceu sua senha? => https://user.riseup.net/forms/password_reset/first]]."
+red_help: "[[Central de Atendimento Riseup Red => https://user.riseup.net/forms/]]."
 
 black_title: "Riseup Black"
 black_info: "Oferecemos contas <b>Riseup Black</b> para serviços novos, que
-  requerem o aplicativo Bitmask. Atualmente, isso inclui VPN, e, em breve, haverá
-  criptografia de ponta a ponta para e-mails."
+  usam o aplicativo Bitmask. Agora é VPN, em breve, teremos criptografia de ponta a ponta para e-mails."
 black_vpn: "[[Ajuda com VPN => vpn]]."
-black_settings: "[[Mude suas configurações => https://black.riseup.net]]."
+black_settings: "[[Acesse suas configurações e preferências => https://black.riseup.net]]."
 black_download: "[[Baixe o aplicativo Bitmask => https://bitmask.net/install]]."
-black_help: "[[Crie um tíquete de ajuda Riseup Black => https://black.riseup.net/tickets/new/]]."
+black_help: "[[Central de Atendimento Black => https://black.riseup.net/tickets/new/]]."
 
 other_title: "Outros serviços"
-other_info: "Cada um dos serviços a seguir requer uma conta independente,
-  desvinculada de Riseup Red e Riseup Black."
+other_info: "Cada serviço abaixo funciona com uma conta independente,
+  sem vínculo com Riseup Red e Riseup Black."
 
-lists_title: "Listas de discussão"
+lists_title: "Listas de discussão por email"
 lists_info: "Oferecemos listas de discussão para organizações ativistas."
 lists_login: "[[Entre no sistema de listas => https://lists.riseup.net/www/]]."
 lists_help: "[[Ajuda com listas => lists]]."
@@ -34,7 +33,7 @@ lists_request: "[[Solicite uma lista => creating-lists]]."
 lists_subscribe: "[[Inscreva-se => subscribing]]."
 lists_unsubscribe: "[[Cancele sua inscrição => subscribing]]."
 
-collab_title: "Colaboração"
+collab_title: "Colaborativo"
 we_info: "wikis privadas e colaboração em grupo."
 pad_info: "editor colaborativo de texto em tempo real."
 share_info: "upload de arquivos (pastebin e imagebin)."
@@ -43,7 +42,6 @@ resources_title: Recursos
 security_info: "Recursos e tutoriais para uma comunicação mais segura."
 help_link: "[[Central de Atendimento Riseup => https://user.riseup.net/forms]]"
 help_info: "Para fazer uma pergunta, use o formulário da Central de Atendimento para
-  criar um tíquete de ajuda. Mas antes, por favor, pesquise e leia a documentação
-  on-line disponível neste site."
-servers_info: "Um diretório com dezenas de servidores radicais do mundo inteiro."
+  criar um tíquete de ajuda. Mas antes, por favor, pesquise e leia a informação que disponibilizamos neste site com carinho."
+servers_info: "Uma lista com dezenas de servidores radicais do mundo inteiro."
 
